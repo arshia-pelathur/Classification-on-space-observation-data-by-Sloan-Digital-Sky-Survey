@@ -6,8 +6,11 @@ The aim of this project is to build a model that classifies observations of spac
 
 ### Introduction:
 The target variable is 'class' which has 3 categories:
+
 Star: It is a type of astronomical object consisting of a luminous spheroid of plasma held together by its own gravity. The nearest star to Earth is the Sun. 
+
 Galaxy: It is a huge collection of gas, dust, and billions of stars and their solar systems, all held together by gravity. We are a part of the milky way galaxy.
+
 Quasar: It is an astronomical object of very high luminosity found in the centres of some galaxies and it is powered by gas spiraling at high velocity into an extremely large black hole.
 
 Data collected by Sloan Digital Sky Survey contains astronomical features that are used in the classification.
